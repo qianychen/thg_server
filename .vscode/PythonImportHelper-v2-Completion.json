@@ -1,0 +1,74 @@
+[
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {
+            "value": "\n```python\nimport requests\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "re,sys,os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re.sys.os",
+        "description": "re.sys.os",
+        "detail": "re.sys.os",
+        "documentation": {
+            "value": "\n```python\nimport re.sys.os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {
+            "value": "\n```python\nimport json\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {
+            "value": "\n```python\nimport threading\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {
+            "value": "\n```python\nimport pprint\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "spider",
+        "kind": 6,
+        "importPath": "db.pa",
+        "description": "db.pa",
+        "peekOfCode": "class spider:\n    def __init__(self,sid,name):\n        self.id = sid\n        self.headers = { \"Accept\":\"text/html,application/xhtml+xml,application/xml;\",\n            \"Accept-Encoding\":\"gzip\",\n            \"Accept-Language\":\"zh-CN,zh;q=0.8\",\n            \"Referer\":\"http://www.example.com/\",\n            \"User-Agent\":\"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36\"\n            }\n        self.name=name",
+        "detail": "db.pa",
+        "documentation": {
+            "value": "\n```python\nfrom db.pa import spider\n```\n\n```python\n\n\n```\n\n```python\nclass spider:\n    def __init__(self,sid,name):\n        self.id = sid\n        self.headers = { \"Accept\":\"text/html,application/xhtml+xml,application/xml;\",\n            \"Accept-Encoding\":\"gzip\",\n            \"Accept-Language\":\"zh-CN,zh;q=0.8\",\n            \"Referer\":\"http://www.example.com/\",\n            \"User-Agent\":\"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36\"\n            }\n        self.name=name\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
